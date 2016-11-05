@@ -1,17 +1,27 @@
 BlueBasic
 =========
+
+
+Update Nov 2016
+---------------
+
 This fork contains an updated Wiki with various enhancements and updates.
+https://github.com/ozarchie/BlueBasic-loader/wiki
 
-There is also an associated version of the linux Bluebasic console and program loader for those who only need to uplaod basic programs to these devices.
+There is also an associated version of the linux bbconsole and BlueBasic-loader for those who only need to upload bbasic programs.
+https://github.com/ozarchie/bbconsole
+https://github.com/ozarchie/BlueBasic-loader
 
-I have also found that the OSX BlueBasic console does not work under Sierra.
+
+I have also found that the OSX BlueBasic console does not work under OSX - Sierra.
 I am not sure why, and I am not a swift programmer.
 
 The BlueBasis interpreter/tester/editor continues to work under XCODE.
 
-NOTE: I no longer have access to either hardware or tools to update the builds.
 
-BASIC interpreter for CC2540 and CC2541 Bluetooth LE chips.
+
+BASIC interpreter for CC2540 and CC2541 Bluetooth LE chips
+----------------------------------------------------------
 
 This project contains a BASIC interpreter which can be flashed onto a CC2540 or CC2541 Bluetooth module. Once installed, simple use the Bluetooth Console tool to connect and start coding on the device using good old BASIC.
 
