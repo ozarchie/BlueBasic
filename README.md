@@ -1,5 +1,13 @@
 BlueBasic
 =========
+This fork contains an updated Wiki with various enhancements and updates.
+
+There is also an associated version of the linux Bluebasic console and program loader for those who only need to uplaod basic programs to these devices.
+
+I have also found that the OSX BlueBasic console does not work under Sierra.
+I am not sure why, and I am not a swift programmer.
+
+The BlueBasis interpreter/tester/editor continues to work under XCODE.
 
 NOTE: I no longer have access to either hardware or tools to update the builds.
 
