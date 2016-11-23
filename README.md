@@ -6,7 +6,6 @@ Update Nov 2016
 ---------------
 
 This fork contains an updated Wiki with various enhancements and updates.  
-https://github.com/ozarchie/BlueBasic-loader/wiki
 
 There is also an associated version of the linux bbconsole and BlueBasic-loader for those who only need to upload bbasic programs.  
 (Forked from https://github.com/0xFACE/BlueBasic-loader)
