@@ -11,13 +11,13 @@ https://github.com/ozarchie/BlueBasic-loader/wiki
 There is also an associated version of the linux bbconsole and BlueBasic-loader for those who only need to upload bbasic programs.  
 (Forked from https://github.com/0xFACE/BlueBasic-loader)
 
-https://github.com/ozarchie/bbconsole
-https://github.com/ozarchie/BlueBasic-loader
+https://github.com/ozarchie/bbconsole  
+https://github.com/ozarchie/BlueBasic-loader  
 bbloadlines is a line by line script loader, while slower, always seems to succeed.
 
 
 
-I have also found that the OSX BlueBasic console does not work under OSX - Sierra.
+I have also found that the OSX BlueBasic console does not work under OSX - Sierra.  
 kscheff has fixed this = :  
 
 https://github.com/kscheff/BlueBasic
