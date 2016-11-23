@@ -5,7 +5,7 @@ BlueBasic
 Update Nov 2016
 ---------------
 
-This fork contains an updated Wiki with various enhancements and updates.
+This fork contains an updated Wiki with various enhancements and updates.  
 https://github.com/ozarchie/BlueBasic-loader/wiki
 
 There is also an associated version of the linux bbconsole and BlueBasic-loader for those who only need to upload bbasic programs.  
